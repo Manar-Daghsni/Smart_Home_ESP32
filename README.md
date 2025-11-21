@@ -82,6 +82,11 @@ smart-home-esp32/
 - Relay module  
 
 ---
+## 🎬 Demo
+
+[Watch Project Demo](media/project-demo.mp4)
+
+---
 
 ## 📧 Contact
 **Manar Daghsni**  
