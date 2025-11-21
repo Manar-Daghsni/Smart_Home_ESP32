@@ -49,22 +49,26 @@ The full project includes real wiring, Proteus (ISIS) schematics and Blynk dashb
 
 
 ## 📂 Project Structure
+
+```text
 smart-home-esp32/
 │── firmware/
-│ └── smart_home.ino
+│   └── smart_home.ino
 │
 │── media/
-│ ├── wiring-real.jpg
-│ ├── wiring-isis.png
-│ ├── blynk-dashboard.png
-│ └── project-demo.mp4
+│   ├── wiring-real.jpg
+│   ├── wiring-isis.png
+│   ├── blynk-dashboard.png
+│   └── project-demo.mp4
 │
 │── docs/
-│ ├── features.md
-│ ├── modes.md
-│ └── system-architecture.md
+│   ├── features.md
+│   ├── modes.md
+│   └── system-architecture.md
 │
 │── README.md
+
+```
 
 ---
 
