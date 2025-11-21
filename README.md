@@ -1,4 +1,4 @@
-# 🏡 Smart Home Automation — ESP32 + Blynk + Manual/Automatic Modes
+# 🏡 Smart Home — ESP32 + Blynk + Manual/Automatic Modes
 
 This project is a connected smart home system using an **ESP32**, **Blynk IoT platform**, and multiple sensors.  
 It allows controlling a lamp using **two modes**:
